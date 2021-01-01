@@ -1,6 +1,6 @@
 # Portfolio
 
-Portfolio con proyectos y apps de muestra desarrollados por m
+Portfolio con proyectos y apps de muestra desarrollados por mi
 
 ## Se utiliza: 
 
