@@ -2,7 +2,7 @@
 
 Portfolio con proyectos y apps de muestra desarrollados por m
 
-# Se utiliza: 
+## Se utiliza: 
 
 - C
 - C#
