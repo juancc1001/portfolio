@@ -1,0 +1,47 @@
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Juanc\Desktop\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.manifest
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\bin\Debug\MainCorreo.application
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe.manifest
+D:\back up\juan el programadore\prog. 2\tp_laboratorio_2\Carvallo.JuanCruz.2A.TP4\MainCorreo\obj\Debug\MainCorreo.application
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\bin\Debug\MainCorreo.exe.manifest
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\bin\Debug\MainCorreo.application
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\obj\Debug\MainCorreo.Form1.resources
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\obj\Debug\MainCorreo.exe.manifest
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\obj\Debug\MainCorreo.application
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Juanc\Desktop\portfolio\App Correo C#\Codigo\MainCorreo\obj\Debug\MainCorreo.pdb

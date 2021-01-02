@@ -1,0 +1,1 @@
+Simulacion de un sistema de correos, se crean objetos "paquetes" en subprocesos diferentes y cambian de estado cada 4 segundos.
