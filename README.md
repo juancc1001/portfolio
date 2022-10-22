@@ -1,10 +1,8 @@
 # Portfolio
 
-Portfolio con proyectos de muestra desarrollados por mi
-
 ## Se utiliza: 
 
-- C#
+- C# .NET
 - JavaScript
 - HTML 5 
 - CSS
